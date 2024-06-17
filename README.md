@@ -1,2 +1,2 @@
 # josephus-
-josephus基于c++代码的数组形式的实现
+josephus基于c++代码的链表形式的实现
